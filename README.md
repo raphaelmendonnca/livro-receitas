@@ -8,5 +8,4 @@
 
 - Fraldinha ao Vinho :cow:
 
-...
-
+  
