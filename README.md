@@ -1,6 +1,12 @@
-# Bem Vindo ao meu livro de Receitas! :dog2:
+# Bem Vindo ao meu livro de Receitas! :dog2: :man_cook:
 
-- Strogonoff de Frango
+------
+
+## Receitas:
+
+- Strogonoff de Frango :chicken:
+
+- Fraldinha ao Vinho :cow:
 
   
 
